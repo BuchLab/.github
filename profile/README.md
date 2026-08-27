@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/buchlab-logo.png" width="220" alt="Buch Lab logo">
+  <img src="../assets/Buch-Lab-github-white.png" width="220" alt="Buch Lab logo">
 </p>
 
 <h1 align="center">Buch Lab @ Duke</h1>
